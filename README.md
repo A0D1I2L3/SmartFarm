@@ -1,8 +1,6 @@
 # Smart Farm Weather Predictor (Flutter)
 
-![Language](https://img.shields.io/badge/Language-Dart-blue)  
-![Framework](https://img.shields.io/badge/Framework-Flutter-02569B)  
-![License](https://img.shields.io/badge/License-MIT-green)
+![Language](https://img.shields.io/badge/Language-Dart-blue) ![Framework](https://img.shields.io/badge/Framework-Flutter-02569B) ![License](https://img.shields.io/badge/License-MIT-green)
 
 A Flutter app that predicts the rolling 5-day probability of significant rainfall (≥15mm) using Weatherbit API forecasts blended with historical climate baselines.  
 Adapted from the original [Smart-Farm-Weather-Predictor (CLI)](https://github.com/ruhneb2004/Smart-Farm-Weather-Predictor).
