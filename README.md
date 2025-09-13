@@ -1,6 +1,7 @@
 # Smart Farm Weather Predictor (Flutter)
 
-A Flutter app that predicts the rolling 5-day probability of significant rainfall (≥15mm) using Weatherbit API forecasts blended with historical climate baselines. Adapted from the original Smart-Farm-Weather-Predictor CLI tool.
+A Flutter app that predicts the rolling 5-day probability of significant rainfall (≥15mm) using Weatherbit API forecasts blended with historical climate baselines.  
+Adapted from the original [Smart-Farm-Weather-Predictor (CLI)](https://github.com/ruhneb2004/Smart-Farm-Weather-Predictor).
 
 ## Problem
 
