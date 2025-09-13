@@ -47,7 +47,7 @@ class MyHomePage extends StatefulWidget {
   @override
   State<MyHomePage> createState() => _MyHomePageState();
 }
-
+// code for rain prediction logic ported from https://github.com/ruhneb2004/Smart-Farm-Weather-Predictor.git predictor.js
 class RainPredictor {
   final String apiKey = "API_KEY"; // replace with your Weatherbit key
   final double cutOffRainAmount = 15.0;
